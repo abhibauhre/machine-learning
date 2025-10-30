@@ -1,6 +1,6 @@
-# Machine Learning Journey — Abhishek Bohre
+# Machine Learning Journey Abhishek Bohre
 
-> *"Small daily steps build unstoppable skills. Learn with discipline, document with pride."*
+> *Small daily steps build unstoppable skills. Learn with discipline, document with pride.*
 
 ---
 
